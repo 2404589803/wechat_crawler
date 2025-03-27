@@ -1,0 +1,23 @@
+{
+  "output_dir": "outputs",
+  "media_folder": "media",
+  "default_formats": [
+    "文本",
+    "HTML",
+    "Markdown"
+  ],
+  "download_media": true,
+  "download_videos": false,
+  "proxy": "",
+  "retry_times": 3,
+  "retry_delay": 2,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+  "timeout": 10,
+  "last_used_urls": [
+    "https://mp.weixin.qq.com/s/ezp_YKVlJ-dJzBw9qjPx4Q",
+    "https://mp.weixin.qq.com/s/ONQIatEPjSux5VTbvyrqUw",
+    "https://mp.weixin.qq.com/s/L0aGKodiII_tP7ypNS0nog",
+    "https://mp.weixin.qq.com/s/fxzb8m-THjyzdOlXPuCFnQ"
+  ],
+  "max_url_history": 10
+}
